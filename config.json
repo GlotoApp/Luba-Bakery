@@ -1,0 +1,44 @@
+{
+    "tituloPagina": "Pide en Luba Bakery a domicilio | Restaurante | Ordena online",
+    "nombreRestaurante": "Luba Bakery",
+    "logo": "img/icono_tienda.png",
+    "colores": {
+        "--bg-body": "Url('img/fondobody.png') no-repeat center center / cover",
+        "--header": "linear-gradient(135deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('img/fondoheader.png')",
+        "--accent": "#fe8502",
+        "--bg-skeleton": "linear-gradient(135deg, #f9f9f9, #e9e9e9)",
+        "--bg-start": "#333",
+        "--bg-end": "#444",
+        "--card-bg": "#222"
+    },
+    "redes": {
+        "whatsapp": "https://wa.me/573113045558",
+        "instagram": "https://www.instagram.com/lubabakery.co",
+        "facebook": "https://www.facebook.com/"
+    },
+    "numeroWhatsAppMensajes": "573113045558",
+    "footerQR": "img/QR_tienda.png",
+    "sede": {
+        "nombre": "Luba Bakery - Cartagena, Bolivar.",
+        "direccion": "Dg 40 #51-62 Edificio Lazuli Towers 1",
+        "telefono": "(+57) 311 304 5558"
+    },
+    "coordenadasSede": [
+        10.3904007,
+        -75.4960046
+    ],
+    "footerLogo": "img/logo.png",
+    "domicilio": {
+        "tarifaMinima": 3000,
+        "costoPorKilometro": 1500,
+        "recargoNocturnoActivo": true
+    },
+    "crearTienda": "https://wa.me/573022666530?text=Quiero%20crear%20mi%20tienda",
+    "apiUrls": {
+        "productos": "https://script.google.com/macros/s/AKfycbz9dB6WPCa-yiJ6ZM2XQTFimdTP7IyHjAMtrmOu9H-ChZjuFCGwUJY6CID_etJWWwNrYA/exec",
+        "horario": "https://script.google.com/macros/s/AKfycbw4NvyKM647C9-BVk7c9rqpQTFGHRwPqMFf5MUJhw0mWuu2ZiCB47dO-UUu2Es30TfX/exec",
+        "envioBaseDatos": "https://script.google.com/macros/s/AKfycbzGD4phQS8O_7ptIuI4x1cwjA0aTYrvzhUFmD-OId_XYFFH4DHp4mYHgtSkP9dJxd1j/exec",
+        "reciboBaseDatos": "https://script.google.com/macros/s/AKfycbzGD4phQS8O_7ptIuI4x1cwjA0aTYrvzhUFmD-OId_XYFFH4DHp4mYHgtSkP9dJxd1j/exec",
+        "CajaDatos": "https://script.google.com/macros/s/AKfycbyUaJVbTWHdLoD0QLOheqcvF8PbqGTxgVctuTw-8egNUX07bMXk5NN7EC04hqOPnG9Q/exec"
+    }
+}
