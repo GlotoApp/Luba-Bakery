@@ -40,5 +40,9 @@
         "envioBaseDatos": "https://script.google.com/macros/s/AKfycbzGD4phQS8O_7ptIuI4x1cwjA0aTYrvzhUFmD-OId_XYFFH4DHp4mYHgtSkP9dJxd1j/exec",
         "reciboBaseDatos": "https://script.google.com/macros/s/AKfycbzGD4phQS8O_7ptIuI4x1cwjA0aTYrvzhUFmD-OId_XYFFH4DHp4mYHgtSkP9dJxd1j/exec",
         "CajaDatos": "https://script.google.com/macros/s/AKfycbyUaJVbTWHdLoD0QLOheqcvF8PbqGTxgVctuTw-8egNUX07bMXk5NN7EC04hqOPnG9Q/exec"
+    },
+    "supabase": {
+        "url": "https://xrmqmrwfogupimteewqe.supabase.co",
+        "publicToken": "sb_publishable_AV0spAvvxExUnLbOmKNXog_rr4Dx6sy"
     }
 }
